@@ -11,7 +11,7 @@ El estilo se ha aplicado =)
 
 
 #notebook_panel { /* main background */
-    background: #333333;
+    background: #f7f7f7;
 }
 
 div.cell { /* set cell width */
@@ -19,7 +19,7 @@ div.cell { /* set cell width */
 }
 
 div #notebook { /* centre the content */
-    background: #111; /* white background for content */
+    background: #fff; /* white background for content */
     width: 950px;
     margin: auto;
     padding-left: 0em;
@@ -31,13 +31,13 @@ div #notebook { /* centre the content */
 
 /* draw border around running cells */
 div.cell.border-box-sizing.code_cell.running { 
-    border: 1px solid #eee;
+    border: 1px solid #111;
 }
 
 /* Put a solid color box around each cell and its output, visually linking them*/
 div.cell.code_cell {
     font-family: 'Source Sans Pro', sans-serif;
-    background-color: rgb(24,24,24);
+    background-color: rgb(256,256,256);
     font-size: 110%;
     border-radius: 0px; 
     padding: 0.5em;
