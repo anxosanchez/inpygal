@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 {
     "jupyter.jupyterServerType": "remote"
+=======
+{
+    "jupyter.jupyterServerType": "local"
+>>>>>>> b5b4da7290df5e5a9cedce5384cbe89fbe5bdfb1
 }
